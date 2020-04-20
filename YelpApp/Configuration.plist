@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Yelp Base URL</key>
+	<string>https://api.yelp.com/v3/businesses/search</string>
+	<key>Encoded Yelp Key</key>
+	<string>TjBRMlJ2bFVhREg0YXhPTGotQ0JDdU9xWkc2eURXNGZLM2N1MF9hNThtaTh5bEFWMTBkMlIwX2o2T1pfNXpVMHFTbV9IM2dLZ1pfQ0YtYjRycVdhcmY2cWhHVlM4VHRLVURpZTR0dTJDdjVvSWUxVC1fZ05jR0JUeE5yZFhYWXg=</string>
+	<key>Term</key>
+	<string>Physical Therapists</string>
+</dict>
+</plist>
